@@ -9,11 +9,11 @@ header{
     border-bottom: solid 3px whitesmoke;
     padding: 20px;
     font-size: 32px;
-    color: purple;
+    color: rgb(9, 180, 157);
 }
 
 section{
-    background: purple;
+    background: rgba(128, 0, 128, 0);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
