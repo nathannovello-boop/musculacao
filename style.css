@@ -1,6 +1,6 @@
 body{
-    color:rgb(122, 122, 122);
-    background:rgb(51, 51, 51);
+    color:rgb(0, 0, 0);
+    background:rgba(51, 51, 51, 0.336);
     margin: 0px;
     font-family: "BBH Sans Bogle", sans-serif;
 }
@@ -18,4 +18,7 @@ section{
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
