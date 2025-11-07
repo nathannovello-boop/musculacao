@@ -1,6 +1,6 @@
 body {
-    color: rgb(0, 0, 0);
-    background: #00000000;
+    color: rgba(0, 0, 0, 0);
+    background: #00000057;
     margin: 0px;
     font-family: "BBH Sans Bogle", sans-serif;
     margin-bottom: 100px;
@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: rgba(0, 0, 0, 0.384);
+    background: rgb(0, 0, 0);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -56,7 +56,7 @@ img {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px solid grey;
+    border: 1px solid rgb(44, 44, 44);
 }
 
 .categoria h2 {
