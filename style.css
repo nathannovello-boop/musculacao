@@ -1,6 +1,6 @@
 body {
-    color: rgba(0, 0, 0, 0);
-    background: #000000;
+    color: rgb(0, 0, 0);
+    background: #00000000;
     margin: 0px;
     font-family: "BBH Sans Bogle", sans-serif;
     margin-bottom: 100px;
@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: rgba(255, 255, 255, 0);
+    background: rgba(0, 0, 0, 0.384);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
