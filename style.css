@@ -1,6 +1,6 @@
 body{
-    color:rgba(0, 0, 0, 0);
-    background:#000000;
+    color:rgba(0, 0, 0, 0.342);
+    background:#00000000;
     margin: 0px;
     font-family: "BBH Sans Bogle", sans-serif;
 }
@@ -43,4 +43,7 @@ img{
 .categoria-videos img{
     opacity: 0.5;
     height: 200px;
+}
+.categoria-videos img:hover{
+
 }
